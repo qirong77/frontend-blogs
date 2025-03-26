@@ -1,4 +1,4 @@
-# Nice Front-End Blog Collection 🚀
+# Collection Of Frontend Blogs
 
 ## English Blog
 - **The Anatomy of a Frame**  
